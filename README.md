@@ -1,3 +1,3 @@
-# discord-badge-scrapper
+# badges-scrapper
 
 <img src="example.png">
